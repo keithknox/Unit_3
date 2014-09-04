@@ -1,0 +1,16 @@
+body {
+	background-image: url("background.jpg");
+	font-family: sans-serif;
+	color: white;
+	font-size: 20px;
+	font-weight: 100;
+	}
+h1	{
+	background-repeat: repeat-x;
+}
+
+hr {
+	width: 50px;
+	
+	}
+a	{	}
